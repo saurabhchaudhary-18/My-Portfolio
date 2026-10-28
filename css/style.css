@@ -134,7 +134,9 @@ img {
 
 
 /* Logo */
-
+.favicon-logo{
+    border-radius: 50%;
+}
 .logo {
     font-family: var(--font-heading);
 
